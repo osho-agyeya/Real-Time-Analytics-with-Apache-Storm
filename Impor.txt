@@ -1,0 +1,8 @@
+Consumer Key (API Key)	MLWnUQpNnx296SZX9OlaAkgDP
+Consumer Secret (API Secret)	1OtqpCWwRWRcF06EUNRyuB2LeyBMDDyvLI833qdlhlhoEby3u3
+
+Access Token	840911560616759296-4OKFD4VJKrcmtMM9rqeRp8ZHuA7SNvi
+Access Token Secret	yrwSfgOLIrjT8rKUtem46hlMNZrMQcIQZtsogqkMPVIbF
+
+
+before streaming joins syntax done
